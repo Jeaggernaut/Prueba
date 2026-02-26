@@ -7,3 +7,7 @@
 ```bash
     git clone https://github.com/Jeaggernaut/Prueba.git
 ```
+
+## Cambios de God Step:
+
+- Agregar GodStep.html
